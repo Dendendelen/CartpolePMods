@@ -3487,7 +3487,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10"
+		(property "Value" "10 uf"
 			(at 95.25 74.9299 0)
 			(effects
 				(font
@@ -3556,7 +3556,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "470 uf"
 			(at 41.275 38.1 90)
 			(effects
 				(font
@@ -3773,7 +3773,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1"
+		(property "Value" "0.1 uf"
 			(at 171.45 50.7999 0)
 			(effects
 				(font
@@ -3843,7 +3843,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 78.74 74.9299 0)
 			(effects
 				(font
@@ -3913,7 +3913,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.47"
+		(property "Value" "0.47 uf"
 			(at 125.73 63.4999 0)
 			(effects
 				(font
@@ -4119,7 +4119,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1"
+		(property "Value" "0.1 uf"
 			(at 110.49 69.8499 0)
 			(effects
 				(font
@@ -4388,7 +4388,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x12_Pin"
+		(property "Value" "PMod Connector"
 			(at 24.765 119.38 0)
 			(effects
 				(font
@@ -4487,7 +4487,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6.8 V"
+		(property "Value" "6.8 V Zener"
 			(at 78.74 54.6099 90)
 			(effects
 				(font
@@ -4776,7 +4776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.farnell.com/datasheets/1835997.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/BSS84.pdf"
 			(at 73.66 40.64 0)
 			(effects
 				(font
@@ -4832,7 +4832,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "1R"
 			(at 93.98 54.6099 0)
 			(effects
 				(font
