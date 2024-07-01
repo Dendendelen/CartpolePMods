@@ -76,7 +76,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "D:/Drive Home/Dennis/College/Cartpole/Cartpole/CartpolePMods/ADC/Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -165,7 +165,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/00a8d90e-c92f-4e7c-8186-e69c4378ef3d")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -443,7 +443,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/56269863-7b26-4b35-98fc-e8ab93f7ecff")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -776,7 +776,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/821a12a5-df30-4ed1-b9d4-875439d3ffd2")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.54 -7.62)
@@ -1516,7 +1516,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/03e13735-24d4-4f6f-a73a-3bf24819314c")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -1729,7 +1729,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/944ce95e-1086-4a5d-b6a1-cd4cc9b3e285")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -1942,7 +1942,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e772666f-1ad0-4077-9ae1-8d6dfe470360")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.56 3.51)
@@ -2418,7 +2418,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a1acd3d3-58fe-422d-9335-e6bce8adf8b4")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -2632,7 +2632,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/143abd5f-c17c-4fe6-bc75-c3b6a01a1c5f")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -2847,7 +2847,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ad73fdb4-e52e-4433-a8bd-03e9111c537e")
 		(sheetname "Root")
-		(sheetfile "Cartpole.kicad_sch")
+		(sheetfile "Cartpole_ADC_interface.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
