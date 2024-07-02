@@ -1640,7 +1640,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7"
+		(property "Value" "4.7 uf"
 			(at 87.63 44.4499 0)
 			(effects
 				(font
@@ -1710,7 +1710,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "Ferrite Bead"
 			(at 43.18 45.6691 0)
 			(effects
 				(font
@@ -1913,7 +1913,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "1 uf"
 			(at 102.87 44.4499 0)
 			(effects
 				(font
@@ -2146,7 +2146,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 106.68 29.21 90)
 			(effects
 				(font
@@ -2215,7 +2215,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "20 uf"
 			(at 69.85 44.4499 0)
 			(effects
 				(font
@@ -2284,7 +2284,7 @@
 				)
 			)
 		)
-		(property "Value" "12000"
+		(property "Value" "12K"
 			(at 74.93 49.53 90)
 			(effects
 				(font

@@ -390,7 +390,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "1 uf"
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "335eb639-5cf6-4b56-8f2c-759fa52fe601")
@@ -1462,7 +1462,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7"
+		(property "Value" "4.7 uf"
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1676,7 +1676,7 @@
 				)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100R"
 			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "57b2b7be-7006-4a8b-b95b-124bd82f25f4")
@@ -2365,7 +2365,7 @@
 				)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "20 uf"
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "e3143ec2-df39-4c8b-a5bf-457ec852c393")
@@ -2579,7 +2579,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead"
+		(property "Value" "Ferrite Bead"
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "4a25692c-bc90-46c0-b23b-69c0120233ec")
@@ -2793,7 +2793,7 @@
 				)
 			)
 		)
-		(property "Value" "12000"
+		(property "Value" "12K"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2991,7 +2991,7 @@
 		)
 	)
 	(gr_rect
-		(start 88.5 87)
+		(start 86.75 87)
 		(end 112.5 105.5)
 		(stroke
 			(width 0.05)
